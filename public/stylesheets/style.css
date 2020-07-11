@@ -2735,7 +2735,7 @@ small {
   font-size: 75%; }
 
 a {
-  color: black; }
+  color: #425B89; }
 
 dl {
   background-color: rgba(0, 0, 0, 0.05);
@@ -8102,7 +8102,7 @@ select {
     .btn.btn-darken.invert {
       background-color: rgba(255, 255, 255, 0.05); }
   .btn.btn-dark {
-    background-color: #222;
+    background-color: #425B89;
     color: #ffffff; }
   .btn.btn-medium {
     background-color: rgba(0, 0, 0, 0.05);
@@ -16008,7 +16008,7 @@ html,
 body {
   height: 100%;
   background-color: white;
-  color: #111; }
+  color: #425B89; }
 
 body {
   max-width: 100%;
